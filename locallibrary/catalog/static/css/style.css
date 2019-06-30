@@ -1,0 +1,11 @@
+.sidebar-nav{
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+}
+
+.content{
+  text-align: center;
+  margin:auto;
+  margin-top: 0px;
+}
